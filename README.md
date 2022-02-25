@@ -5,7 +5,9 @@
 
 I'm Aarya from India, and I'm student of CS. I really enjoy learning languages and cyber security.
 
-Skills: C / C++ / JS / HTML / CSS
+###Skills: 
+😀
+💻🖥 C / C++ / JS / HTML / CSS
 
  
 
