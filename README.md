@@ -1,5 +1,3 @@
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarya-78)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋, my name is Aarya Mishra
 #### ehtical hacker
