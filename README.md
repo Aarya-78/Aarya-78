@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/aaryamishra01" target="blank"><img src="https://img.shields.io/twitter/follow/aaryamishra01?logo=twitter&style=for-the-badge" alt="aaryamishra01" /></a> </p>
 
-- 🔭 I’m currently working on **working on Track back**
+- 🔭 I’m currently working on **Track back**
 
-- 🌱 I’m currently learning **learning React Native**
+- 🌱 I’m currently learning ** React Native**
 
-- 💬 Ask me about **Android ,Java**
+- 💬 Ask me about **Android , Java**
 
 - 📫 How to reach me **arya06mishra@gmail.com**
 
