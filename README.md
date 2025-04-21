@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aaryamishra01" target="blank"><img src="https://img.shields.io/twitter/follow/aaryamishra01?logo=twitter&style=for-the-badge" alt="aaryamishra01" /></a> </p>
 
-- 🔭 I’m currently working on **Trackback**
+- 🔭 I’m currently working on **Qunatela Inc**
 
 - 🌱 I’m currently learning ** React Native**
 
